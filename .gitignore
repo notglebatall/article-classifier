@@ -210,3 +210,5 @@ data/*.txt
 data/*.csv
 data/*
 models/*
+
+predictions/*
