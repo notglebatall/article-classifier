@@ -209,6 +209,6 @@ data/*.npy
 data/*.txt
 data/*.csv
 data/*
-models/*
+models/
 
 predictions/*
